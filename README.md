@@ -12,3 +12,11 @@ I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 这是一个链接到谷歌的[^1]。
 
 [^1]: http://www.google.com
+
+
+这是一个脚注的例子[^1]
+
+[^1]: 这里是脚注
+
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
