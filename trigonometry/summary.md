@@ -39,4 +39,4 @@
 
 
 # 机器学习-如何在github上写数学公式
-![公式](https://latex.codecogs.com/gif.latex?\left\{\begin{matrix}x+2=3\\x^2+5=4\end{matrix}\right)
+![公式](https://latex.codecogs.com/gif.download?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7Dx+2%3D3%5C%5Cx%5E2+5%3D4%5Cend%7Bmatrix%7D%5Cright)
